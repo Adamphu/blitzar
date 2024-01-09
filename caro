@@ -1,0 +1,12 @@
+feat: print stacktrace for assertions and panics (PROOF-774) (#78)
+* print stacktrace for assertions
+
+* print stacktrace from panic
+
+* reformat
+
+* drop declaration
+
+* tweak options
+
+* comment
